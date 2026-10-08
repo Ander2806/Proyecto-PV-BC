@@ -1,1 +1,0 @@
-# Paquete de utilidades generales (guardado, resúmenes)
