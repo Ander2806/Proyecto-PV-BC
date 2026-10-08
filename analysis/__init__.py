@@ -1,1 +1,0 @@
-# Paquete de análisis y post-procesamiento

@@ -1,1 +1,0 @@
-# Paquete para funciones de visualización
